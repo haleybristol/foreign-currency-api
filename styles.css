@@ -1,0 +1,19 @@
+body {
+	text-align: center;
+	font-family: sans-serif;
+	background: peachpuff;
+}
+
+#dollar-sign {
+	display: inline-block;
+}
+
+.container {
+	width: 20%;
+	margin: 0 auto;
+}
+#results ul li {
+	list-style: none;
+	width: 100%;
+	text-align: left;
+}
